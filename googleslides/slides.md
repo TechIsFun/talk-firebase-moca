@@ -153,7 +153,7 @@ In particolare in Firebase:
 
 # StreamView
 
-![](https://github.com/TechIsFun/talk-firebase-moca/blob/master/img/streamview.png)
+![](https://github.com/TechIsFun/talk-firebase-moca/raw/master/img/streamview.png)
 
 <!--
 - La Stream View permette di avere una visualizzazione "live" degli eventi degli ultimi 30 minuti.
@@ -246,8 +246,6 @@ E' possibile inviare notifiche one-shot oppure programmare notifiche ricorrenti.
 ---
 
 # Facebook Analytics
-
-![](https://www.facebook.com/images/fb_icon_325x325.png)
 
 <!--
 Si pone come strumento alternativo a Firebase Analytics.

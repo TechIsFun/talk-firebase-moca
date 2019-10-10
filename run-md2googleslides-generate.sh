@@ -5,6 +5,6 @@ docker run -it --rm \
   -v ${PWD}:/work \
   ndrpnt/md2googleslides \
   googleslides/slides.md \
-  --title "My Slides" \
+  --title "Firebase Introduzione" \
   --style atom-one-dark \
   --use-fileio
